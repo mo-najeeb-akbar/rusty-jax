@@ -1,0 +1,6 @@
+
+1. pick some basic layers + all of the possible configurations you may need for them
+2. test their equality generically 
+
+input: layer, config
+output: boolean 
